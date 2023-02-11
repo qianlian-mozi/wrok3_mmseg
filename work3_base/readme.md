@@ -1,4 +1,4 @@
-
+最终达到86的miou与90的map；使用pspnet；数据集使用老鼠肾小球；  
 模型链接如下：  
 链接：https://pan.baidu.com/s/1h4aH8f7fk0wFX_y8rmkl6A  
 提取码：rafj  
